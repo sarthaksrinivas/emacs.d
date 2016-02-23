@@ -1,0 +1,22 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.com"
+  [url-cookie "NID" "75=eA3zFm3bBBAOENwtTFLzg0_8qQCKZtZNzXVeV3oyQA4buaFmX_wYThp1KwybVRpk5kdkggfLmJXbTGiFwcT70fm7d65yY5jtyBnXnnWZUHFgMdyeHL1Q-olPIcGRD1apVRBgMzpkWky10sc" "26-Jul-2016 18:45:17.00 GMT" "/" ".google.com" nil])
+ (".wikihow.com"
+  [url-cookie "whv" "b4MQs3dGzt7zgrFR800_" "Sat, 31 Jan 2026 15:27:48 GMT" "/" ".wikihow.com" nil])
+ (".sleepnbetter.com"
+  [url-cookie "__cfduid" "d66f5d87a6f852f680392e0587234e39d1454513299" "02 Feb 17 15:28:19 [GMT]" "/" ".sleepnbetter.com" nil]
+  [url-cookie "HttpOnly" nil "02 Feb 17 15:28:19 [GMT]" "/" ".sleepnbetter.com" nil])
+ ("en.wikipedia.org"
+  [url-cookie "HttpOnly" nil "Sat, 27 Feb 2016 12:00:00 GMT" "/" "en.wikipedia.org" nil]
+  [url-cookie "WMF-Last-Access" "26-Jan-2016" "Sat, 27 Feb 2016 12:00:00 GMT" "/" "en.wikipedia.org" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

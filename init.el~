@@ -1,0 +1,19 @@
+(load-file "~/.emacs.d/environment.el")
+(load-file "~/.emacs.d/keybindings.el")
+
+(package-initialize)
+(load-file "~/.emacs.d/packages.el")
+
+(load-file "~/.emacs.d/aesthetics.el")
+
+(load-file "~/.emacs.d/ace-jump-mode.el")
+
+(load-file "~/.emacs.d/ido.el")
+
+(load-file "~/.emacs.d/aggressive-indent-mode.el")
+
+(load-file "~/.emacs.d/slime.el")
+
+(setq custom-file "~/.emacs.d/custom.el")
+(load custom-file)
+
